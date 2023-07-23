@@ -1,0 +1,56 @@
+header{
+    background-color: rgb(123, 123, 180);
+    width: 50%;
+    height: 100px;
+}
+h3{
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 50px;
+    color: aqua;
+    font-size: 50px;
+    font-style: oblique;
+font-variant:small-caps; 
+}
+a{
+    background-color: rgb(48, 103, 103);
+    width:calc(50% - 5px);
+    display:inline-block;
+    
+}
+.gh{
+    font-variant: small-caps;
+}
+.re{
+    font-variant: all-petite-caps;
+}
+.rw{
+    font-variant: unicase;
+}
+p{
+    font-family: fantasy;
+}
+h4{
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+}
+.fgh{
+    text-decoration: none;
+    background-color: inherit;
+    display: block;
+}
+.io{
+    text-decoration: underline;
+    background-color: inherit;
+    display: block;
+}
+.i{
+    text-decoration: overline;
+    background-color: inherit;
+    display: block;
+}
+.rf{
+    text-decoration: line-through rgb(51, 94, 94) wavy;
+    background-color:inherit;
+    display: block;
+    color: brown;
+}
